@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Built-By: Pedro
+Build-Jdk: 22.0.1
+Main-Class: one.digitalinnovation.junit.HelloWorld
+Created-By: Maven Integration for Eclipse
+
